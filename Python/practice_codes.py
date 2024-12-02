@@ -113,3 +113,53 @@ sentence = input("Enter a sentence: ")
 
 reversed_sentence = reverse_words(sentence)
 print(f"Reversed sentence: {reversed_sentence}")
+
+list=[1,2,3,4,5,6,7,8,9,10]
+x = len(list)
+for i in range(x):
+  print(list[i], "available at positive index: ", i, "and at -ve index: ", i-x)
+
+list=[1,2,3,4,5,6,7,8,9,10]
+print(list.count(2))
+print(list.index(3))
+
+list=[1,2,3,4,5,6,7,8,9,10]
+list.append(5)
+print(list)
+
+list=[1,2,3,4,5,6,7,8,9,10]
+list.insert(2, 5)
+print(list)
+
+list=[1,2,3,4,5]
+n=[1,2,3,4,5,6,7,8,9,10]
+n.extend(list)
+print(n)
+
+list=[1,2,3,4,5,6,7,8,9,10]
+list.remove(3)
+print(list)
+list.pop()
+
+list=[1,2,3,4,5,6,7,8,9,10]
+list.sort(reverse = True)
+print(list)
+
+word = input("Enter a word: ").lower()
+
+vowels = "aeiou"
+
+unique_vowels = []
+
+for char in word:
+    if char in vowels and char not in unique_vowels:
+        unique_vowels.append(char)
+
+print("Unique vowels in the word:", " ".join(unique_vowels))
+
+n = [[10, 20, 30], [40, 50, 60], [70, 80, 90]]
+
+for elements in n:
+    for number in elements:
+        print(number, end=" ")
+    print()
