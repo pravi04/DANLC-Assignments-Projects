@@ -1,6 +1,5 @@
 # DANLC-Tasks-Assignments-Projects
-This repository contains all the files of
+This repository includes Assignments, Projects, and Tasks assigned to me in DANLC course of fillowing:
 - MS Excel
 - MS Power BI
 - Python  
-It also include Assignments, Projects, and Tasks assigned to me in DANLC course.
