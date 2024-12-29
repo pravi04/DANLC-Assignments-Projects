@@ -56,7 +56,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** of Olympic Games dat
 
 ## 📈 Visualizations
 The project includes insightful visualizations such as:
-- Medal distribution heatmaps.
+- Gener ratio.
 - Line plots for participation trends.
 - Bar charts showing top-performing nations.
 
@@ -75,8 +75,8 @@ The project includes insightful visualizations such as:
 ---
 
 ## 📝 How to Use This Repository
-1. Clone this repository:
-2. Open the Jupyter Notebook:
+1. Clone this repository
+2. Open the Jupyter Notebook
 3. Run the notebook cell by cell to explore the analysis.
 
 ---
