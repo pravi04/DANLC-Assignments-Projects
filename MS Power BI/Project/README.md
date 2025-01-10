@@ -73,3 +73,9 @@ The dashboard includes the following visualizations:
 1. Clone this repository or download the ZIP file.
 2. Open `blinkit Project.pbix` in Power BI Desktop.
 3. Access the source data file `BlinkIT Grocery Data.xlsx` for review or modifications.
+
+## Screenshots of the Dashboard
+
+1. ![Screenshot 1](https://github.com/yourusername/yourrepo/blob/main/screenshots/screenshot1.png)
+2. ![Screenshot 2](https://github.com/yourusername/yourrepo/blob/main/screenshots/screenshot2.png)
+3. ![Screenshot 3](https://github.com/yourusername/yourrepo/blob/main/screenshots/screenshot3.png)
