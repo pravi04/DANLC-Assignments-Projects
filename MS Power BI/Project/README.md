@@ -8,8 +8,6 @@ This project provides insights into grocery data using Power BI, focusing on sal
 - [Steps for Analysis](#steps-for-analysis)
 - [Visualizations](#visualizations)
 - [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [Contact Information](#contact-information)
 
 ## Overview
 
@@ -74,8 +72,8 @@ The dashboard includes the following visualizations:
 2. Open `blinkit Project.pbix` in Power BI Desktop.
 3. Access the source data file `BlinkIT Grocery Data.xlsx` for review or modifications.
 
-## Screenshots of the Dashboard
+## Screenshots
 
-1. ![Screenshot 1](https://github.com/yourusername/yourrepo/blob/main/screenshots/screenshot1.png)
-2. ![Screenshot 2](https://github.com/yourusername/yourrepo/blob/main/screenshots/screenshot2.png)
-3. ![Screenshot 3](https://github.com/yourusername/yourrepo/blob/main/screenshots/screenshot3.png)
+1. ![Screenshot 1](https://github.com/pravi04/DANLC-Assignments-Projects/blob/main/MS%20Power%20BI/Project/Screenshots/1.png)
+2. ![Screenshot 2](https://github.com/pravi04/DANLC-Assignments-Projects/blob/main/MS%20Power%20BI/Project/Screenshots/2.png)
+3. ![Screenshot 3](https://github.com/pravi04/DANLC-Assignments-Projects/blob/main/MS%20Power%20BI/Project/Screenshots/3.png)
