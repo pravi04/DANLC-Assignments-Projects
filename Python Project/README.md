@@ -81,7 +81,7 @@ There are two primary Jupyter notebooks in this project, each handling the Olymp
 1. [Olympic Data Analysis.ipynb](Olympic%20Data%20Analysis.ipynb)  
    This notebook focuses on analyzing the dataset directly from the CSV file. It includes data loading, cleaning, and exploratory data analysis (EDA) steps, working with the raw CSV data.
 
-2. [Olympics-EDA-SQL_DB.ipynb](Olympics-EDA%20SQL_DB.ipynb)  
+2. [Olympics-EDA-SQL_DB.ipynb](Olympics-EDA%20-SQL_DB.ipynb)  
    This notebook performs the same exploratory data analysis (EDA) as the first one but with a key difference. The dataset is now stored in an SQL database. The CSV file has been converted into a SQL format and inserted into the database as tables. This notebook retrieves data from the SQL database and performs the analysis, making it a more robust approach when handling large datasets or complex queries.
 
 ---
